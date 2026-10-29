@@ -2,6 +2,14 @@
 
 **Knitwear business · B2B trade · Practical AI and automation**
 
+## Workspace / 工作入口
+
+[Private agent workspace · 私有智能体工作档案](https://github.com/deanlover/agent-workspace)
+
+Project index, working rules, and handoff notes for continuing work across AI tools. Repository access is required.
+
+项目目录、工作规则与交接记录，便于不同智能体接续工作。需要该私有仓库的访问权限。
+
 ## About me
 
 I run 蠡县梓卿商贸有限公司, a business focused on made-to-order knitwear for babies and children, including sweaters, hats, and blankets.
@@ -45,3 +53,4 @@ I use GitHub to organize projects, document experiments, and gradually share use
 **正在学习与实践：** Codex · OpenClaw · ComfyUI · 本地语言模型 · WordPress
 
 我在这里整理项目、记录实验，并逐步分享经过验证的方法和工具。
+
